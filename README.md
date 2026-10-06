@@ -1,2 +1,2 @@
 # tracktrends-issues
-A repository dedicated to issues and feature requests for TrackTrends.
+A public repository dedicated to issues and feature requests for TrackTrends.
